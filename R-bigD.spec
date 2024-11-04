@@ -7,7 +7,7 @@
 #
 Name     : R-bigD
 Version  : 0.2.0
-Release  : 3
+Release  : 4
 URL      : https://cran.r-project.org/src/contrib/bigD_0.2.0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/bigD_0.2.0.tar.gz
 Summary  : Flexibly Format Dates and Times to a Given Locale
